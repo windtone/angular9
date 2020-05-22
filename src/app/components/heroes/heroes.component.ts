@@ -1,5 +1,10 @@
 import { Component, OnInit } from '@angular/core';
+
+/*
+ ** Models
+ */
 import { Hero } from '@/models/hero';
+
 @Component({
   selector: 'app-heroes',
   templateUrl: './heroes.component.html',
